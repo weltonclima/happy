@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/weltonclima/happy-nlw3">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/weltonclima/happy-nlw3">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/weltonclima/happy-nlw3">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weltonclima/happy-nlw3">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/weltonclima/nlw-03-omnistack">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/weltonclima/nlw-03-omnistack">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/weltonclima/nlw-03-omnistack">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/weltonclima/nlw-03-omnistack">
 </p>
 
 <br>
