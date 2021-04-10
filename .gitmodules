@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:weltonclima/nlw-03-omnistack.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:caioagiani/nlw-03-omnistack.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:caioagiani/nlw-03-omnistack.git
